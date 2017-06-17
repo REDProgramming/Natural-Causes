@@ -2,14 +2,14 @@
     "id": "73ab72a2-08e7-49a7-bbdd-6060c03be6d2",
     "modelName": "GMRoom",
     "mvc": "1.0",
-    "name": "BattleRoom",
+    "name": "BattleRoom_Random",
     "IsDnD": false,
     "creationCodeFile": "",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "cbba4995-2701-40b6-ba03-84bfd5d394a1"
     ],
     "layers": [
         {
@@ -35,7 +35,30 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "cbba4995-2701-40b6-ba03-84bfd5d394a1",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_3AA4AA45",
+                    "x": 512,
+                    "y": 160,
+                    "IsDnD": false,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_3AA4AA45",
+                    "objId": "1b1772e5-e12b-4112-b699-cb9aaf6e2dd9",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
