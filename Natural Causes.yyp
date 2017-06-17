@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "1a51f538-be61-471c-a537-5f099c8709b6",
+            "Value": {
+                "id": "b4ffd328-7a05-41a6-8e6a-99429ccb0fa1",
+                "resourcePath": "rooms\\Village1\\Village1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "35f79f89-0d64-45d3-93bf-7d84ad36324f",
             "Value": {
                 "id": "1dd29d72-b765-44f2-8878-46fafa3c1945",
