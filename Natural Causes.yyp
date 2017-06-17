@@ -47,8 +47,9 @@
             }
         },
         {
-            "Key": "1a51f538-be61-471c-a537-5f099c8709b6",
+            "Key": "1b1772e5-e12b-4112-b699-cb9aaf6e2dd9",
             "Value": {
+<<<<<<< HEAD
                 "id": "b4ffd328-7a05-41a6-8e6a-99429ccb0fa1",
                 "resourcePath": "rooms\\Village1\\Village1.yy",
                 "resourceType": "GMRoom"
@@ -68,6 +69,11 @@
                 "id": "1dd29d72-b765-44f2-8878-46fafa3c1945",
                 "resourcePath": "sprites\\Grass\\Grass.yy",
                 "resourceType": "GMSprite"
+=======
+                "id": "00623cc5-72bb-4001-a30a-dff15307f11a",
+                "resourcePath": "objects\\Battle_Enemy\\Battle_Enemy.yy",
+                "resourceType": "GMObject"
+>>>>>>> 297ad113c940415e9cbf0bb5a37a0222c4da575f
             }
         },
         {
@@ -79,6 +85,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "42ee2446-a15f-4a1c-84b5-437560b005de",
             "Value": {
                 "id": "cb18c11f-512f-43ae-af7b-be13263c7472",
@@ -119,6 +126,8 @@
             }
         },
         {
+=======
+>>>>>>> 297ad113c940415e9cbf0bb5a37a0222c4da575f
             "Key": "5d0f937d-2223-41a3-99a6-ba7008370c1f",
             "Value": {
                 "id": "19f99d29-7ffb-4d48-a8ff-a0deda331782",
@@ -135,6 +144,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "6811f780-9e6b-4829-981f-de06e2f947ae",
             "Value": {
                 "id": "de4dcaaf-b476-49c3-a555-5ec0e90468de",
@@ -167,10 +177,12 @@
             }
         },
         {
+=======
+>>>>>>> 297ad113c940415e9cbf0bb5a37a0222c4da575f
             "Key": "73ab72a2-08e7-49a7-bbdd-6060c03be6d2",
             "Value": {
                 "id": "e02f2430-c963-4d77-ae75-4fc5369062b1",
-                "resourcePath": "rooms\\BattleRoom\\BattleRoom.yy",
+                "resourcePath": "rooms\\BattleRoom_Random\\BattleRoom_Random.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -191,10 +203,25 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "81125769-8f70-494e-a9ba-51ec388c258e",
             "Value": {
                 "id": "0890d9c3-c21b-4145-afe7-96525d000993",
                 "resourcePath": "sprites\\sprite7\\sprite7.yy",
+=======
+            "Key": "7de19f0e-ff05-43a6-8b52-0391c7728f8d",
+            "Value": {
+                "id": "16936b77-5064-4be9-a00b-b32289fb8108",
+                "resourcePath": "sprites\\Enemy_Placeholder\\Enemy_Placeholder.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "85b7a271-0115-4744-b129-d8d9202baa6c",
+            "Value": {
+                "id": "67e6609d-dc72-4c0f-9da5-5aa111bfeb41",
+                "resourcePath": "sprites\\Enemy2_Placeholder\\Enemy2_Placeholder.yy",
+>>>>>>> 297ad113c940415e9cbf0bb5a37a0222c4da575f
                 "resourceType": "GMSprite"
             }
         },
@@ -311,6 +338,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "ddef8982-cf6d-457b-b69d-c474af19f2e6",
             "Value": {
                 "id": "0b069b53-8a8c-4cb7-b45f-e2017fc9057f",
@@ -343,6 +371,8 @@
             }
         },
         {
+=======
+>>>>>>> 297ad113c940415e9cbf0bb5a37a0222c4da575f
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "c4cb2321-324d-4567-926c-36c2d03b128c",
